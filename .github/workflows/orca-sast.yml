@@ -26,4 +26,4 @@ jobs:
           debug: true
           log_path: orca_results/
           path:
-            "packages/" 
+            "packages" 
