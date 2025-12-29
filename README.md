@@ -2,7 +2,7 @@ All code from this tutorial as a complete package is available in [this reposito
 
 {% youtube McEc5yX6kf4 %}
 
-Do you work with large or semi-large codebases that are starting to get out of control?  Do you have to deal with multiple different projects that interact with each other and have difficulty keeping versions aligned?  
+Do you work with large or semi-large codebases that are starting to get out of control?  Do you have to deal with multiple different projects that interact with each other and have difficulty keeping versions aligned?   
 
 If you said yes to either of those things (or even if you're just anticipating encountering them in the future) then this tutorial is for you.  
 
