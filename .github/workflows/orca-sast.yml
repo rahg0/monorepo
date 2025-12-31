@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          path: work
+          path: work/
           
       - name: Run Orca SAST Scan
         id: orca-sast-scan
@@ -27,4 +27,4 @@ jobs:
           debug: true
           log_path: orca_results/
           path:
-            "work/packages" 
+            "./packages" 
